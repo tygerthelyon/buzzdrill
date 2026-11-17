@@ -1,0 +1,12 @@
+# build output: the APK goes to GitHub Releases, not the repo
+dist/
+*.apk
+*.aab
+*.idsig
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+# never commit a signing key
+*.keystore
+*.jks
