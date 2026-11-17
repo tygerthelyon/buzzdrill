@@ -4,8 +4,10 @@ Quizbowl practice: tossups read word by word, bonuses, buzzpoints, and stats you
 
 ## Get it
 
-**→ [tygerthelyon.github.io/buzzdrill](https://tygerthelyon.github.io/buzzdrill/)**: open this on your phone. It shows
-the right install for your phone.
+**→ [tygerthelyon.github.io/buzzdrill](https://tygerthelyon.github.io/buzzdrill/)**: open this on your phone, or scan
+the code with your phone's camera. It shows the right install for your phone.
+
+<img src="docs/qr.svg" alt="QR code for the download page" width="160">
 
 - **Android:** [Download BuzzDrill.apk](https://github.com/tygerthelyon/buzzdrill/releases/latest/download/BuzzDrill.apk),
   open it, and allow your browser to install apps if asked.
